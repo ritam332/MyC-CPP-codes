@@ -1,0 +1,1 @@
+cout<<"sum of two numbers "<<sum<<endl;
